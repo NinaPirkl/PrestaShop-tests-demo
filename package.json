@@ -1,0 +1,13 @@
+{
+  "name": "cypress-practice-demo-updated",
+  "version": "1.0.0",
+  "description": "Automated UI tests for Tesena online shop using Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "cypress": "^13.0.0"
+  }
+}
