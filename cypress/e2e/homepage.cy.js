@@ -1,4 +1,4 @@
-import Homepage from '../pages/Homepage';
+import Homepage from '../pages/HomePage';
 
 const homepage = new Homepage();
 
