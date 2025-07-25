@@ -6,7 +6,7 @@ The purpose is to demonstrate my skills in automated UI testing, code organizati
 
 ---
 
-## Project Structure
+``` ## Project Structure
 cypress/
 ├── e2e/
 │ ├── homepage.cy.js # UI structure & localization tests
@@ -16,7 +16,7 @@ cypress/
 │ └── e2e.js # Auto-loaded support setup
 cypress.config.js # Cypress configuration
 .github/workflows/cypress.yml # Optional CI pipeline for GitHub Actions
-
+```
 ---
 
 ## How to start
