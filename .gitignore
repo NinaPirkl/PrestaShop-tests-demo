@@ -5,3 +5,4 @@ allure-results/
 allure-report/
 
 *.swp
+.DS_Store
